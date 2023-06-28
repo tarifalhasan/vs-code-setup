@@ -1,0 +1,26 @@
+face{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.linkedEditing": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "window.zoomLevel": 1,
+  // Prettier Config
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "workbench.editor.enablePreview": false,
+  "editor.minimap.enabled": false
+}
